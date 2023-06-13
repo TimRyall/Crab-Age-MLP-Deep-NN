@@ -1,7 +1,7 @@
 # Crab-Age-MLP-Deep-NN
 
 ****
-Using multilayer perceptron (MLP) Neural Networks to predict the age of crabs based on a number of numerical and catagorical features
+Using multilayer perceptron (MLP) Neural Networks with regularisation features such as drop out to predict the age of crabs based on a number of numerical and catagorical features
 ****
 
 Context
