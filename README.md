@@ -10,7 +10,7 @@ This data set explores many interesting predictive features of crabs. We will us
 
 Data Set
 ----
-The data is made up of serveral numerical and catagorical features that we will explore in the following notebook
+The data is made up of serveral numerical (such as length of shell) and catagorical features (such as sex) that we will explore in the following notebook
 
 <img width="624" alt="image" src="https://github.com/TimRyall/Crab-Age-MLP-Deep-NN/assets/78301985/2e397cb4-fdb6-4b3b-8574-9d877fbed0c8">
 <img width="659" alt="image" src="https://github.com/TimRyall/Crab-Age-MLP-Deep-NN/assets/78301985/defd9af3-e47c-4977-b09a-dab089ed1bd8">
